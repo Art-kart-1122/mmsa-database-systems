@@ -11,7 +11,7 @@
 1. "Last name" "First name", *"Project topic"* Repository Link
 
 ## KA-76 info  
-1. Borbela Artur "Internet-shop" https://github.com/Art-kart-1122/BD.git
+1. Borbela Artur "Internet-shop (boat , boat motors)" https://github.com/Art-kart-1122/BD.git
 
 
 [icon-awesome]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
