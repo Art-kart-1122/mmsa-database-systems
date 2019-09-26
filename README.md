@@ -18,3 +18,4 @@
 [mmsa-database-systems]: https://github.com/lrochka/mmsa-database-systems
 2. "Vdovichenko" "Dmitro", *"Movies and TV Shows DataBase"* https://github.com/bataisk/db_course_work.git
 5. Zalevskyi Vladyslav, *Research Portfolio* https://github.com/Vivikar/portfolio
+1. Borbela Artur , "Online-shop (goods: boat, boat motors)" https://github.com/Art-kart-1122/BD.git
